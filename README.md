@@ -12,7 +12,7 @@ Driven by curiosity and innovation, I'm a **Computer Science & Engineering** stu
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>
 --
 ### 🚀 Leadership Experience
-###### As a former **Team Lead** at **Space Zee**, I collaborated with talented minds, spearheading exciting projects that reached for the stars 🌌.
+#### As a former **Team Lead** at **Space Zee**, I collaborated with talented minds, spearheading exciting projects that reached for the stars 🌌.
 ---
 
 🧠 Let's Connect and Create!
