@@ -12,7 +12,9 @@ Driven by curiosity and innovation, I'm a **Computer Science & Engineering** stu
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>
 --
 ### 🚀 Leadership Experience
-#### As a former **Team Lead** at **Space Zee**, I collaborated with talented minds, spearheading exciting projects that reached for the stars 🌌.
+####As a former Team Lead at Space Zee, I collaborated with exceptional talent, leading high-impact projects and driving innovation that pushed boundaries and delivered meaningful results 🌌
+
+Following that, I worked at Caterpillar, where I contributed as an individual contributor, developing data-driven applications using Python, Flask, and Dash. I focused on building efficient back-end services and interactive dashboards, translating complex requirements into practical, scalable solutions ⚙️
 ---
 
 🧠 Let's Connect and Create!
