@@ -14,7 +14,7 @@ Driven by curiosity and innovation, I'm a **Computer Science & Engineering** stu
 ### 🚀 Leadership Experience
 ####As a former Team Lead at Space Zee, I collaborated with exceptional talent, leading high-impact projects and driving innovation that pushed boundaries and delivered meaningful results 🌌
 
-Following that, I worked at Caterpillar, where I contributed as an individual contributor, developing data-driven applications using Python, Flask, and Dash. I focused on building efficient back-end services and interactive dashboards, translating complex requirements into practical, scalable solutions ⚙️
+#####Following that, I worked at Caterpillar, where I contributed as an individual contributor, developing data-driven applications using Python, Flask, and Dash. I focused on building efficient back-end services and interactive dashboards, translating complex requirements into practical, scalable solutions ⚙️
 ---
 
 🧠 Let's Connect and Create!
